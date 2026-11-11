@@ -1,0 +1,5 @@
+[tools]
+ruby = "1.9.3"
+
+[tasks.check]
+run = "git diff --check"
